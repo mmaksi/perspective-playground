@@ -74,3 +74,6 @@ button {
 label{
   color: #fff;
 }
+[v-cloak] {
+  display: none;
+}
