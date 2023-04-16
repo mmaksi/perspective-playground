@@ -1,0 +1,1 @@
+Simple project I created while learning Vue.js
